@@ -30,15 +30,15 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 # Methods
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
-
+I am using two main methods; the first one is Graphical Descriptive Results 2. Visual Data set. 
 # Results
 
 <!--Divide this section into two sub-sections: One for your descriptive results and one for your inferential results.!-->
 
 ## Descriptive Results
-
+The results indicate that skill players are able to do more pushups than the line players. The skill players are able to do 54 pushups and the line players are able to do 20 pushups. 
 ### Graphical Descriptive Results
-
+the skill player with the most pushups was 108 and the the line player with the most pushups was 34. 
 <!--Graphical results here. Make sure to show your code. Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too. Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ```{r}
